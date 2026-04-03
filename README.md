@@ -1,6 +1,7 @@
 # my-new-project
 Building AI course project
 ```markdown
+## Summary
 # SmartFlow Parking & Traffic
 
 SmartFlow Parking & Traffic is an AI-powered system designed to reduce parking overload and road congestion in cities. It analyses parking occupancy, departure/arrival times, and typical routes (e.g. to schools and supermarkets) to suggest optimal parking options, time windows, and routes, minimizing queues and traffic jams.[page:2]
